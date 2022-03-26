@@ -1,6 +1,6 @@
 {
-  "name": "Getting Started Example",
-  "description": "Build an Extension!",
+  "name": "Refresh",
+  "description": "Refresh a webpage until the content changes",
   "version": "1.0",
   "manifest_version": 3,
   "background": {
