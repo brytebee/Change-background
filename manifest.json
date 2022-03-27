@@ -1,6 +1,6 @@
 {
-  "name": "Refresh",
-  "description": "Refresh a webpage until the content changes",
+  "name": "Change BG-color",
+  "description": "Change your BG color",
   "version": "1.0",
   "manifest_version": 3,
   "options_page": "options.html",
