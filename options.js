@@ -6,8 +6,8 @@ const presetButtonColors = [
   "#f9bb2d",
   "#4688f1",
   "#a2a",
-  "#000",
   "#fff",
+  "#000",
 ];
 
 // Reacts to a button click by marking the selected button and saving
